@@ -1,0 +1,24 @@
+theme: minima
+markdown: kramdown
+
+title: |-
+    Self-Contained and Automatic Calibration of a Multi-Fingered Hand
+    Using Only Pairwise Contact Measurements
+
+author: '{johannes.tenhumberg, leon.sievers, berthold.baeuml}@tum.de'
+    
+
+header_pages:
+  - _pages/related-work.md
+  - _pages/aidx-lab.md
+
+include:
+  - _pages
+
+plugins:
+  - jekyll-redirect-from
+
+exclude: 
+  - .gitignore
+  - Gemfile
+  - README.md
