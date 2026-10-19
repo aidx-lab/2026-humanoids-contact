@@ -2,10 +2,10 @@ theme: minima
 markdown: kramdown
 
 title: |-
-    Self-Contained and Automatic Calibration of a Multi-Fingered Hand
-    Using Only Pairwise Contact Measurements
+    Bayesian In-Situ Joint-Torque Sensor Calibration for Robotic Hands
+    via Self-Consistency under Contact Constraints
 
-author: '{johannes.tenhumberg, leon.sievers, berthold.baeuml}@tum.de'
+author: '{leon.sievers, berthold.baeuml}@tum.de'
     
 
 header_pages:
