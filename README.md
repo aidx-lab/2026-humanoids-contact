@@ -1,6 +1,6 @@
-## Self-Contained and Automatic Calibration of a Multi-Fingered Hand Using Only Pairwise Contact Measurements
+## Bayesian In-Situ Joint-Torque Sensor Calibration for Robotic Hands via Self-Consistency under Contact Constraints
 
 
 ### Websites
- - [https://aidx-lab.org/2023-humanoids-contact/](https://aidx-lab.org/2023-humanoids-contact/) (main)
- - [https://dlr-alr.github.io/2023-humanoids-contact/](https://dlr-alr.github.io/2023-humanoids-contact/)  (redirect)
+ - [https://aidx-lab.org/2026-humanoids-contact/](https://aidx-lab.org/2026-humanoids-contact/) (main)
+ - [https://dlr-alr.github.io/2026-humanoids-contact/](https://dlr-alr.github.io/2026-humanoids-contact/)  (redirect)
